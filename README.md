@@ -6,6 +6,7 @@ The game features a player fighting waves of enemies (ZomBear, ZomBunny, Helleph
 
 ## Requirements
 
+- **GitHub Desktop** ([desktop.github.com](https://desktop.github.com/))
 - **Unity 6** version **6000.3.7f1** (must match exactly)
 - **FMOD for Unity** plugin (install after forking)
 
@@ -18,13 +19,11 @@ The game features a player fighting waves of enemies (ZomBear, ZomBunny, Helleph
 3. Select your own GitHub account as the destination
 4. This creates your own copy of the project that you can modify freely
 
-### 2. Clone Your Fork
+### 2. Clone Your Fork with GitHub Desktop
 
-```bash
-git clone https://github.com/YOUR-USERNAME/unity-survival-shooter.git
-```
-
-Replace `YOUR-USERNAME` with your GitHub username.
+1. On your fork's GitHub page, click the green **Code** button
+2. Select **Open with GitHub Desktop**
+3. In GitHub Desktop, choose where to save the project on your computer and click **Clone**
 
 ### 3. Install Unity 6000.3.7f1
 
